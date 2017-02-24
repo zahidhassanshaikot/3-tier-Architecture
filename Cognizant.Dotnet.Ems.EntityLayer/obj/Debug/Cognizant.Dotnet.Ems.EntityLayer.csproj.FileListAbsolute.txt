@@ -1,0 +1,10 @@
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.pdb
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\obj\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\obj\Debug\Cognizant.Dotnet.Ems.EntityLayer.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll.lastcodeanalysissucceeded
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\obj\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.EntityLayer\obj\Debug\Cognizant.Dotnet.Ems.EntityLayer.pdb

@@ -1,0 +1,11 @@
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.dll
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.pdb
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\obj\Debug\Cognizant.Dotnet.Ems.DataLayer.dll
+c:\Users\Admin\documents\visual studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\obj\Debug\Cognizant.Dotnet.Ems.DataLayer.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.dll.CodeAnalysisLog.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.dll.lastcodeanalysissucceeded
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.DataLayer\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.DataLayer\obj\Debug\Cognizant.Dotnet.EMS.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.DataLayer\obj\Debug\Cognizant.Dotnet.Ems.DataLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\Cognizant.Dotnet.Ems.DataLayer\obj\Debug\Cognizant.Dotnet.Ems.DataLayer.pdb

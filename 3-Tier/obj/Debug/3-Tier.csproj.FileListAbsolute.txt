@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\3-Tier\bin\Debug\3-Tier.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\3-Tier\obj\Debug\3-Tier.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\3-Tier\3-Tier\obj\Debug\3-Tier.pdb
+E:\DotNet\3-Tier\3-Tier\bin\Debug\3-Tier.exe.config
+E:\DotNet\3-Tier\3-Tier\obj\Debug\3-Tier.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\3-Tier.exe.config
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\3-Tier.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\3-Tier.exe
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\3-Tier.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.EMS.BusinessLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.dll
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.EMS.BusinessLayer.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.Ems.EntityLayer.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\bin\Debug\Cognizant.Dotnet.Ems.DataLayer.pdb
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\3-Tier.csprojResolveAssemblyReference.cache
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\_3_Tier.Form1.resources
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\_3_Tier.Properties.Resources.resources
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\3-Tier.csproj.GenerateResource.Cache
+C:\Users\DIU\Downloads\3-Tier\3-Tier\3-Tier\obj\Debug\3-Tier.exe
